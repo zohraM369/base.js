@@ -6,8 +6,12 @@ console.log("variableSimple2", variableSimple2)
 
 let variableComplexe1 = ["informatique", "sport", "television"]
 let variableComplexe2 = variableComplexe1
-let varibleComplexe3 = [...variableComplexe1]
+let variableComplexe3 = [...variableComplexe1]
 variableComplexe2.push("course")
 console.log("variableComplexe1", variableComplexe1)
 console.log("variableComplexe2", variableComplexe2)
 console.log("variableComplexe3", variableComplexe3)
+
+
+
+

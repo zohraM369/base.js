@@ -16,4 +16,8 @@ let area = rectangle.largeur*rectangle.longeur
  console.log( "area:", area,rectangle.unite+"²")
 console.log("diagonale:" ,( Math.round(diagonale_rectangle* 100) / 100 ) , rectangle.unite,"\n")
 
+
+
+let variableSimple
+
  
