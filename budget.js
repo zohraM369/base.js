@@ -1,41 +1,5 @@
 
 
-//  var max=1713251378
-//  var min =71325378
-//  let indexAleatoire = Math.floor(Math.random() * wallet.depense.type.length);
-
- 
-// var wallet ={
-    
-//     depense :{
-       
-//         date: (Math.random() * (max - min) + min),                    // nombre aleatoire entre 71325378 a 1713251378
-//         type: { 
-    
-//             Sante:indexAleatoire,
-//             sortie: indexAleatoire,
-//             loisir: indexAleatoire,
-//             loyer: indexAleatoire,
-//            } , 
-//                                                               // aleatoire ( sante : sortie loisir loyer voiture frais)
-//         price:  Math.random() * 1000 ,                                      //nombre aleatoire >0               
-//         description:  generateRandomDescription()                                         // soit aleatoire --> 10000 elements
-//     }
-// }
-// console.log(wallet)
-
-// // // Générer un nombre aléatoire
-// // let nombreAleatoire = Math.random() * 100
-// // console.log(nombreAleatoire);
-
-// // // Générer un index aléatoire dans le tableau
-
-
-// // // Accéder au titre aléatoire dans le tableau
-// // let titreAleatoire = data.music[indexAleatoire];
-
-// // // Afficher le titre aléatoire
-// // console.log(titreAleatoire);
 
 var data=[
     {
@@ -84,8 +48,3 @@ for(var i=0; i<1000; i++){
 
 console.log(wallet.depenses)
 console.log("taille tableau ", wallet.depenses.length)
-
-// function getRandate(71325378, 1713251378) {
-//     return Math.random() * (1713251378 - 71325378) + 71325378;
-//   }
-// console.log(data)
