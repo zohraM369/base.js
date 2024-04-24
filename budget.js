@@ -1,6 +1,4 @@
 
-
-
 var data=[
     {
         type: "sante",
@@ -43,8 +41,6 @@ for(var i=0; i<1000; i++){
         description: object_description,
 
     } )
-
 }
-
 console.log(wallet.depenses)
 console.log("taille tableau ", wallet.depenses.length)

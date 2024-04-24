@@ -1,34 +1,40 @@
-// let tab=["m1", "m2","m3", "m4"]
-// tab.pop();
-// console.log(tab)
-// tab.push("s1","s2")
-// console.log(tab)
-// for (var i=0; i<tab.length; i++){
-//     console.log(tab[i]+`("${i}")`)
-// // }
-// let tab2=[];
-// for(var i=0 ; i<100; i++){
-// tab2.push(i);
-// }
-// console.log(tab2)
+// 
+var data=[
+    {
+       type: "sante",
+       description: ["rdv dentiste", "scanner"],
+       prix_max: 500,
+       prix_min: 100,
+    },
+    {
+        type: "loyer",
+        description: ["payement", "electricite"],
+        prix_max: 200,
+        prix_min: 100,
+     },
+     {
+         type: "voiture",
+         description: ["changer pneu", "gasoile"],
+         prix_max: 600,
+         prix_min: 100,
+      }
 
-// function generateArrayWithNNumbers() {
-//     const t = [];
-//     for (let i = 0; i < 5; i++) {
-//         t.push(i);
-//     }
-//     return t;
-// }
-// console.log(t);
-
-let nombres = [5, 10, 2, 20, 1];
-nombres.sort(function(a, b) {
-    return a - b;
-});
-console.log(nombres);
-function squareNumbers(nombre) {
-    return nombre.map(x => x*x);
+]
+var wallet ={
+    depenses:[]
 }
-console.log(nombre)
+var max= 1713251378
+var min = 71325378
+for (var i=0; i<1000; i++){
+    var object_type= data[Math.round(Math.random()*((data.length-1)-0) +0)]
+    var object_description= object_type.description[Math.round(Math.random()*((object_type.description.length-1)-0) +0)]
+    wallet.depenses.push({
+        date: Math.round(Math.random()*(max-min)+min),
+        type:object_type.type,
+        price:Math.round(Math.random()*(object_type.prix_max-object_type.prix_min)+object_type.prix_min),
+        description:object_description,
 
 
+    } )
+}
+console.log(wallet.depenses)

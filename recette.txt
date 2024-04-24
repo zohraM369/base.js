@@ -1,0 +1,185 @@
+nom : salade saumon tandoori
+nom : salade saumon tandoori
+nom : puree saumon curry
+nom : puree saumon sauce forestier
+nom : frite poulet tandoori
+nom : salade steak hache tandoori
+nom : salade steak hache sauce forestier
+nom : riz saumon sauce forestier
+nom : frite saumon paprika
+nom : riz boeuf paprika
+nom : salade poulet sauce forestier durée : 14
+nom : puree poulet paprika durée : 20
+nom : puree boeuf sauce forestier durée : 20
+nom : salade boeuf tandoori durée : 14
+nom : riz saumon sauce forestier durée : 20
+nom : salade saumon curry durée : 14
+nom : frite poulet paprika durée : 23
+nom : salade poulet curry durée : 14
+nom : frite poulet sauce forestier durée : 23
+nom : puree poulet tandoori durée : 20
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade poulet sauce forestier/ durée :14 / Ingredients:salade,poulet,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade poulet sauce forestier/ durée :14 / Ingredients:salade,poulet,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: riz saumon tandoori/ durée :20 / Ingredients:riz,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade poulet sauce forestier/ durée :14 / Ingredients:salade,poulet,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: riz saumon tandoori/ durée :20 / Ingredients:riz,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: salade poulet tandoori/ durée :14 / Ingredients:salade,poulet,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade poulet sauce forestier/ durée :14 / Ingredients:salade,poulet,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: riz saumon tandoori/ durée :20 / Ingredients:riz,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: salade poulet tandoori/ durée :14 / Ingredients:salade,poulet,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite saumon sauce forestier/ durée :23 / Ingredients:patate,huile,saumon,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade poulet sauce forestier/ durée :14 / Ingredients:salade,poulet,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: riz saumon tandoori/ durée :20 / Ingredients:riz,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: salade poulet tandoori/ durée :14 / Ingredients:salade,poulet,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite saumon sauce forestier/ durée :23 / Ingredients:patate,huile,saumon,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade poulet sauce forestier/ durée :14 / Ingredients:salade,poulet,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: riz saumon tandoori/ durée :20 / Ingredients:riz,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: salade poulet tandoori/ durée :14 / Ingredients:salade,poulet,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite saumon sauce forestier/ durée :23 / Ingredients:patate,huile,saumon,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon curry/ durée :14 / Ingredients:salade,saumon,huile,epice curry / ustensiles: saladier,poele
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade poulet sauce forestier/ durée :14 / Ingredients:salade,poulet,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: riz saumon tandoori/ durée :20 / Ingredients:riz,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: salade poulet tandoori/ durée :14 / Ingredients:salade,poulet,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite saumon sauce forestier/ durée :23 / Ingredients:patate,huile,saumon,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon curry/ durée :14 / Ingredients:salade,saumon,huile,epice curry / ustensiles: saladier,poele
+Nom: puree boeuf sauce forestier/ durée :20 / Ingredients:pure,lait,eau,viande,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade poulet sauce forestier/ durée :14 / Ingredients:salade,poulet,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: riz saumon tandoori/ durée :20 / Ingredients:riz,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: salade poulet tandoori/ durée :14 / Ingredients:salade,poulet,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite saumon sauce forestier/ durée :23 / Ingredients:patate,huile,saumon,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon curry/ durée :14 / Ingredients:salade,saumon,huile,epice curry / ustensiles: saladier,poele
+Nom: puree boeuf sauce forestier/ durée :20 / Ingredients:pure,lait,eau,viande,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: puree saumon sauce forestier/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade poulet sauce forestier/ durée :14 / Ingredients:salade,poulet,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: riz saumon tandoori/ durée :20 / Ingredients:riz,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: salade poulet tandoori/ durée :14 / Ingredients:salade,poulet,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite saumon sauce forestier/ durée :23 / Ingredients:patate,huile,saumon,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon curry/ durée :14 / Ingredients:salade,saumon,huile,epice curry / ustensiles: saladier,poele
+Nom: puree boeuf sauce forestier/ durée :20 / Ingredients:pure,lait,eau,viande,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: puree saumon sauce forestier/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: puree saumon tandoori/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: riz saumon paprika/ durée :20 / Ingredients:riz,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz saumon paprika/ durée :20 / Ingredients:riz,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz boeuf curry/ durée :20 / Ingredients:riz,eau,viande,huile,epice curry / ustensiles: casserole,poele
+Nom: riz saumon paprika/ durée :20 / Ingredients:riz,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz boeuf curry/ durée :20 / Ingredients:riz,eau,viande,huile,epice curry / ustensiles: casserole,poele
+Nom: salade boeuf paprika/ durée :14 / Ingredients:salade,viande,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: riz saumon paprika/ durée :20 / Ingredients:riz,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz boeuf curry/ durée :20 / Ingredients:riz,eau,viande,huile,epice curry / ustensiles: casserole,poele
+Nom: salade boeuf paprika/ durée :14 / Ingredients:salade,viande,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade steak hache curry/ durée :14 / Ingredients:salade,steak hache,huile,epice curry / ustensiles: saladier,poele
+Nom: riz saumon paprika/ durée :20 / Ingredients:riz,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz boeuf curry/ durée :20 / Ingredients:riz,eau,viande,huile,epice curry / ustensiles: casserole,poele
+Nom: salade boeuf paprika/ durée :14 / Ingredients:salade,viande,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade steak hache curry/ durée :14 / Ingredients:salade,steak hache,huile,epice curry / ustensiles: saladier,poele
+Nom: puree saumon tandoori/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: riz saumon paprika/ durée :20 / Ingredients:riz,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz boeuf curry/ durée :20 / Ingredients:riz,eau,viande,huile,epice curry / ustensiles: casserole,poele
+Nom: salade boeuf paprika/ durée :14 / Ingredients:salade,viande,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade steak hache curry/ durée :14 / Ingredients:salade,steak hache,huile,epice curry / ustensiles: saladier,poele
+Nom: puree saumon tandoori/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: frite boeuf tandoori/ durée :23 / Ingredients:patate,huile,viande,huile,epice tandoori / ustensiles: friteuse,poele,concaseur
+Nom: riz saumon paprika/ durée :20 / Ingredients:riz,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz boeuf curry/ durée :20 / Ingredients:riz,eau,viande,huile,epice curry / ustensiles: casserole,poele
+Nom: salade boeuf paprika/ durée :14 / Ingredients:salade,viande,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade steak hache curry/ durée :14 / Ingredients:salade,steak hache,huile,epice curry / ustensiles: saladier,poele
+Nom: puree saumon tandoori/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: frite boeuf tandoori/ durée :23 / Ingredients:patate,huile,viande,huile,epice tandoori / ustensiles: friteuse,poele,concaseur
+Nom: salade steak hache sauce forestier/ durée :14 / Ingredients:salade,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: riz saumon paprika/ durée :20 / Ingredients:riz,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz boeuf curry/ durée :20 / Ingredients:riz,eau,viande,huile,epice curry / ustensiles: casserole,poele
+Nom: salade boeuf paprika/ durée :14 / Ingredients:salade,viande,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade steak hache curry/ durée :14 / Ingredients:salade,steak hache,huile,epice curry / ustensiles: saladier,poele
+Nom: puree saumon tandoori/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: frite boeuf tandoori/ durée :23 / Ingredients:patate,huile,viande,huile,epice tandoori / ustensiles: friteuse,poele,concaseur
+Nom: salade steak hache sauce forestier/ durée :14 / Ingredients:salade,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: puree poulet sauce forestier/ durée :20 / Ingredients:pure,lait,eau,poulet,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: riz saumon paprika/ durée :20 / Ingredients:riz,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz boeuf curry/ durée :20 / Ingredients:riz,eau,viande,huile,epice curry / ustensiles: casserole,poele
+Nom: salade boeuf paprika/ durée :14 / Ingredients:salade,viande,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade steak hache curry/ durée :14 / Ingredients:salade,steak hache,huile,epice curry / ustensiles: saladier,poele
+Nom: puree saumon tandoori/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: frite boeuf tandoori/ durée :23 / Ingredients:patate,huile,viande,huile,epice tandoori / ustensiles: friteuse,poele,concaseur
+Nom: salade steak hache sauce forestier/ durée :14 / Ingredients:salade,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: puree poulet sauce forestier/ durée :20 / Ingredients:pure,lait,eau,poulet,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: puree poulet curry/ durée :20 / Ingredients:pure,lait,eau,poulet,huile,epice curry / ustensiles: casserole,poele
+Nom: riz saumon paprika/ durée :20 / Ingredients:riz,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz boeuf curry/ durée :20 / Ingredients:riz,eau,viande,huile,epice curry / ustensiles: casserole,poele
+Nom: salade boeuf paprika/ durée :14 / Ingredients:salade,viande,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade steak hache curry/ durée :14 / Ingredients:salade,steak hache,huile,epice curry / ustensiles: saladier,poele
+Nom: puree saumon tandoori/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: frite boeuf tandoori/ durée :23 / Ingredients:patate,huile,viande,huile,epice tandoori / ustensiles: friteuse,poele,concaseur
+Nom: salade steak hache sauce forestier/ durée :14 / Ingredients:salade,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: puree poulet sauce forestier/ durée :20 / Ingredients:pure,lait,eau,poulet,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: puree poulet curry/ durée :20 / Ingredients:pure,lait,eau,poulet,huile,epice curry / ustensiles: casserole,poele
+Nom: puree poulet tandoori/ durée :20 / Ingredients:pure,lait,eau,poulet,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite steak hache sauce forestier/ durée :23 / Ingredients:patate,huile,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite steak hache sauce forestier/ durée :23 / Ingredients:patate,huile,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: puree boeuf sauce forestier/ durée :20 / Ingredients:pure,lait,eau,viande,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite steak hache sauce forestier/ durée :23 / Ingredients:patate,huile,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: puree boeuf sauce forestier/ durée :20 / Ingredients:pure,lait,eau,viande,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: salade poulet curry/ durée :14 / Ingredients:salade,poulet,huile,epice curry / ustensiles: saladier,poele
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite steak hache sauce forestier/ durée :23 / Ingredients:patate,huile,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: puree boeuf sauce forestier/ durée :20 / Ingredients:pure,lait,eau,viande,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: salade poulet curry/ durée :14 / Ingredients:salade,poulet,huile,epice curry / ustensiles: saladier,poele
+Nom: frite steak hache sauce forestier/ durée :23 / Ingredients:patate,huile,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite steak hache sauce forestier/ durée :23 / Ingredients:patate,huile,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: puree boeuf sauce forestier/ durée :20 / Ingredients:pure,lait,eau,viande,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: salade poulet curry/ durée :14 / Ingredients:salade,poulet,huile,epice curry / ustensiles: saladier,poele
+Nom: frite steak hache sauce forestier/ durée :23 / Ingredients:patate,huile,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: salade boeuf sauce forestier/ durée :14 / Ingredients:salade,viande,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade poulet paprika/ durée :14 / Ingredients:salade,poulet,huile,epice paprika / ustensiles: saladier,poele,concaseur
+Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: frite steak hache sauce forestier/ durée :23 / Ingredients:patate,huile,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: puree boeuf sauce forestier/ durée :20 / Ingredients:pure,lait,eau,viande,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: salade poulet curry/ durée :14 / Ingredients:salade,poulet,huile,epice curry / ustensiles: saladier,poele
+Nom: frite steak hache sauce forestier/ durée :23 / Ingredients:patate,huile,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: friteuse,poele,saladier,mixeur
+Nom: salade boeuf sauce forestier/ durée :14 / Ingredients:salade,viande,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
+Nom: riz steak hache sauce forestier/ durée :20 / Ingredients:riz,eau,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
