@@ -157,6 +157,10 @@ for (var i = 0; i < 10; i++) {
   )} / ustensiles: ${object_recette.ustensile.join(",")}\n`;
 }
 const fs = require("fs");
+const path = require("path");
+var myPath = path.join("recettes", "recette-24042024.txt");
+console.log(myPath);
+
 var folder_exist = fs.existsSync("recettes");
 
 if (!folder_exist) fs.mkdirSync("recettes");

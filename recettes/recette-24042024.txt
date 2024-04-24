@@ -48,3 +48,13 @@ Nom: puree saumon paprika/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,e
 Nom: salade saumon tandoori/ durée :14 / Ingredients:salade,saumon,huile,epice tandoori / ustensiles: saladier,poele,concaseur
 Nom: puree steak hache tandoori/ durée :20 / Ingredients:pure,lait,eau,steak hache,huile,epice tandoori / ustensiles: casserole,poele,concaseur
 Nom: puree saumon paprika/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: riz steak hache sauce forestier/ durée :20 / Ingredients:riz,eau,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: puree boeuf sauce forestier/ durée :20 / Ingredients:pure,lait,eau,viande,huile,creme ,champignon,beurre,eau / ustensiles: casserole,poele,saladier,mixeur
+Nom: puree saumon tandoori/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: frite boeuf paprika/ durée :23 / Ingredients:patate,huile,viande,huile,epice paprika / ustensiles: friteuse,poele,concaseur
+Nom: frite steak hache curry/ durée :23 / Ingredients:patate,huile,steak hache,huile,epice curry / ustensiles: friteuse,poele
+Nom: puree saumon curry/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice curry / ustensiles: casserole,poele
+Nom: puree saumon tandoori/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice tandoori / ustensiles: casserole,poele,concaseur
+Nom: puree saumon paprika/ durée :20 / Ingredients:pure,lait,eau,saumon,huile,epice paprika / ustensiles: casserole,poele,concaseur
+Nom: salade boeuf tandoori/ durée :14 / Ingredients:salade,viande,huile,epice tandoori / ustensiles: saladier,poele,concaseur
+Nom: salade steak hache sauce forestier/ durée :14 / Ingredients:salade,steak hache,huile,creme ,champignon,beurre,eau / ustensiles: saladier,poele,saladier,mixeur
