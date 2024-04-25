@@ -1,3 +1,5 @@
+const _ = require("lodash");
+
 var tab_element = [
   "A",
   "2",
@@ -74,7 +76,13 @@ pile_card = pile_card.map(function (cart) {
   let obj = { name: cart, value: value, color: value_color };
   return obj;
 });
+
 console.log(pile_card);
+pile_card = _.shuffle(pile_card);
+console.log(pile_card);
+
+console.log(_.indexOf(tab_element, "A")); // POUR CHERCHER LINDEX d'un element de tab avec lodash
+console.log(_.findIndex(pile_card, pile_card[("name", "4-C")]));
 
 // var turn1 = numberRamdom(pile_card.length - 1, 0);
 // //console.log(turn1, pile_card[turn1])
